@@ -1,8 +1,13 @@
 # Music Player
 Function
 
-Random Song
+Random Song 
+
 Previous Song
+
 Next Song
+
 Repeat Song
+
 The Layout Design of Music Player
+
