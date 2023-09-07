@@ -11,6 +11,9 @@ Repeat Song
 
 The Layout Design of Music Player
 
-https://1drv.ms/i/s!AsWjgUs6T1j8g3VdJ6Hb8vSXWhZ2?e=zgoUB1
+![image](https://github.com/vemula-chandi-priya/Website/assets/113158270/6d8c4d88-1562-4452-9cc0-fc86f44acd30)
 
-https://1drv.ms/i/s!AsWjgUs6T1j8g3Zq6qlTdMxSWmEB?e=cprroa
+![image](https://github.com/vemula-chandi-priya/Website/assets/113158270/1ccd2e39-dd07-414c-a9c9-dd041c833b98)
+
+
+
